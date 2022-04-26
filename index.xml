@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hi, Welcome to my portfolio on Mohammed Kashalo</title>
+    <link>https://mokashaa2000.github.io/My_Portfolio/</link>
+    <description>Recent content in Hi, Welcome to my portfolio on Mohammed Kashalo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://mokashaa2000.github.io/My_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://mokashaa2000.github.io/My_Portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mokashaa2000.github.io/My_Portfolio/about/</guid>
+      <description>Hello, I&amp;rsquo;m Mohammed, I&amp;rsquo;m 22, I&amp;rsquo;m an analytical data scientist with strong programming, statistics, And data analysis skills, I help companies make data-driven decisions and understand their business and customers better by analyze data, Create data visualizations and dashboards, Build machine learning models, And gain actionable insights.
+The tools i use is :
+  Python(Pandas, Numpy, Scipy, Matplotlib)
+  SQL
+  Tableau (Storytelling &amp;amp; Dashboards)
+  Sklearn</description>
+    </item>
+    
+    <item>
+      <title>Bank Marketing Campaign Data Analysis</title>
+      <link>https://mokashaa2000.github.io/My_Portfolio/post/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mokashaa2000.github.io/My_Portfolio/post/project-2/</guid>
+      <description>In this project , i used Bank Marketing Campaign dataset in kaggle to analyze it and extract meaningful insight.
+Methods Used :   EDA (Exploratory Data Analysis)
+  Data Visualizations
+  Data Preprocessing
+  Statistical Tests
+  Correlation Metrices&amp;hellip;. and more
+  Link To Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://mokashaa2000.github.io/My_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mokashaa2000.github.io/My_Portfolio/contact/</guid>
+      <description>Follow me on these platforms : E-Mail : mokashaa2000@gmail.com
+Phone : +963996188703
+Linkedin : https://www.linkedin.com/in/mohammed-kashalo-882258162/
+Github : https://github.com/Mokashaa2000
+Twitter : https://twitter.com/mokashaa2000</description>
+    </item>
+    
+    <item>
+      <title>House Prices Prediction Model</title>
+      <link>https://mokashaa2000.github.io/My_Portfolio/post/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mokashaa2000.github.io/My_Portfolio/post/project-1/</guid>
+      <description>In this project , i used house prices dataset in kaggle to predict house prices based on house specs.
+Methods Used :   EDA (Exploratory Data Analysis)
+  Data Visualizations
+  Data Preprocessing
+  Predictive Modeling And More&amp;hellip;..
+  Link To Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Income Range Classification Model</title>
+      <link>https://mokashaa2000.github.io/My_Portfolio/post/chapter-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mokashaa2000.github.io/My_Portfolio/post/chapter-2/</guid>
+      <description>For this project I used (Census Income Dataset) from Kaggle, And built a Classification to predict the income range based on several features E.g. Sex, Education, etc&amp;hellip;, And I mange to build a classification model with 90% accuracy.
+Methods Used :   Data Preprocessing
+  EDA (Exploratory Data Analysis)
+  Hypothesis Testing
+  Classification
+  Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Medical Insurance Cost Prediction</title>
+      <link>https://mokashaa2000.github.io/My_Portfolio/post/chapter-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mokashaa2000.github.io/My_Portfolio/post/chapter-3/</guid>
+      <description>In this Project I used insurance costs dataset from kaggle and built a regression model to predict the insurance cost.
+Methods Used :   Data Preprocessing
+  EDA (Exploratory Data Analysis)
+  Regression Analysis
+  Machine Learning and more&amp;hellip;..
+  Link to Github Repository</description>
+    </item>
+    
+  </channel>
+</rss>
